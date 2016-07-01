@@ -20,4 +20,3 @@ app.controller('meetupsController', ['$scope', '$resource', function($scope, $re
 		// $scope.meetupName = '';
 	} // createMeetup
 }]);
-
